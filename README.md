@@ -35,15 +35,15 @@
 
 [Opengl ES之水印贴图](https://mp.weixin.qq.com/s/yGRmVMy7mvnj40Zh2WqaeQ)
 
-# 联系我
-关注公众号
-
-![微信扫码关注](https://flyer-blog.oss-cn-shenzhen.aliyuncs.com/weixin.jpg)
-
-# 如果对你有帮助，大赏一杯咖啡呗
+# 如果对你有帮助，鼓励支持一下呗
 
 ![](https://flyer-blog.oss-cn-shenzhen.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE.jpeg)
 
 ![](https://flyer-blog.oss-cn-shenzhen.aliyuncs.com/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE.jpeg)
+
+# 联系我
+关注公众号
+
+![微信扫码关注](https://flyer-blog.oss-cn-shenzhen.aliyuncs.com/weixin.jpg)
 
 
